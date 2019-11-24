@@ -1,4 +1,4 @@
-# hybrid-test
+# hybrid-test Blog Application
 
 ## Project setup
 ```
